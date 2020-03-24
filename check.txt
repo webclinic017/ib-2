@@ -1,0 +1,1267 @@
+-------------CHECK---------------
+Error:  -1   2104   Market data farm connection is OK:usfarm.nj
+Error:  -1   2104   Market data farm connection is OK:usfuture
+Error:  -1   2104   Market data farm connection is OK:cashfarm
+Error:  -1   2104   Market data farm connection is OK:usfarm
+Error:  -1   2106   HMDS data farm connection is OK:euhmds
+Error:  -1   2106   HMDS data farm connection is OK:cashhmds
+Error:  -1   2106   HMDS data farm connection is OK:fundfarm
+Error:  -1   2106   HMDS data farm connection is OK:ushmds
+Midpoint. ReqId: 1 Time: 20200305 21:49:22 BidPrice 1.12332 AskPrice 1.12333 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12332 AskPrice 1.12333 BidSize 2500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12332 AskPrice 1.12333 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12333 AskPrice 1.12334 BidSize 500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12332 AskPrice 1.12333 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12333 AskPrice 1.12334 BidSize 500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12333 AskPrice 1.12334 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:23 BidPrice 1.12332 AskPrice 1.12333 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:26 BidPrice 1.12332 AskPrice 1.12334 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:26 BidPrice 1.12332 AskPrice 1.12334 BidSize 3500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12332 AskPrice 1.12334 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12332 AskPrice 1.12334 BidSize 3500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12334 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 1500000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 5000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 5500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12333 AskPrice 1.12335 BidSize 6000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12336 BidSize 500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12334 AskPrice 1.12335 BidSize 500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12336 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 10500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2500000 AskSize 10500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 10500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 9500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12336 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2500000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 10000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 10000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 9000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 8500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:27 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:28 BidPrice 1.12335 AskPrice 1.12338 BidSize 3000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12335 AskPrice 1.12338 BidSize 3500000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12335 AskPrice 1.12338 BidSize 3500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12335 AskPrice 1.12338 BidSize 4500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12335 AskPrice 1.12338 BidSize 5000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12335 AskPrice 1.12338 BidSize 4000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:29 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 3500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12335 AskPrice 1.12338 BidSize 4000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12335 AskPrice 1.12338 BidSize 4500000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12335 AskPrice 1.12338 BidSize 4000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12335 AskPrice 1.12338 BidSize 4500000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12335 AskPrice 1.12338 BidSize 4000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12335 AskPrice 1.12338 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:30 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:31 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:31 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 7500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:31 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 8500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:32 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:32 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:32 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:33 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:33 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:34 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:36 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:36 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 9000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:36 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:37 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:39 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:39 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:40 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:41 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:42 BidPrice 1.12335 AskPrice 1.12338 BidSize 2000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:42 BidPrice 1.12335 AskPrice 1.12336 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:42 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12334 AskPrice 1.12335 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12333 AskPrice 1.12334 BidSize 5500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12333 AskPrice 1.12334 BidSize 4500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12333 AskPrice 1.12334 BidSize 3500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:43 BidPrice 1.12333 AskPrice 1.12334 BidSize 4500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:44 BidPrice 1.12333 AskPrice 1.12334 BidSize 3500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:44 BidPrice 1.12333 AskPrice 1.12334 BidSize 4500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:44 BidPrice 1.12333 AskPrice 1.12334 BidSize 3500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:44 BidPrice 1.12333 AskPrice 1.12335 BidSize 3500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12333 AskPrice 1.12335 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12333 AskPrice 1.12335 BidSize 4500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12334 AskPrice 1.12335 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12334 AskPrice 1.12335 BidSize 1500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12334 AskPrice 1.12335 BidSize 2500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12335 AskPrice 1.12336 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:45 BidPrice 1.12335 AskPrice 1.12336 BidSize 2500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:46 BidPrice 1.12335 AskPrice 1.12336 BidSize 1500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:46 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:47 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:47 BidPrice 1.12335 AskPrice 1.12336 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12335 AskPrice 1.12336 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12335 AskPrice 1.12336 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12335 AskPrice 1.12336 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12335 AskPrice 1.12336 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12335 AskPrice 1.12336 BidSize 3500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:48 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 3500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 2500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 3500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12336 AskPrice 1.12338 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12337 AskPrice 1.12338 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:49 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 2500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 3500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 4500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 5500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 7500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.12338 BidSize 7500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.1234 BidSize 7500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.1234 BidSize 8500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.1234 BidSize 7500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12337 AskPrice 1.1234 BidSize 6500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 3500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12342 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:50 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12337 AskPrice 1.12339 BidSize 8000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12337 AskPrice 1.1234 BidSize 7000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 9000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:51 BidPrice 1.12339 AskPrice 1.1234 BidSize 2000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:53 BidPrice 1.12339 AskPrice 1.1234 BidSize 2000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:54 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:54 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:54 BidPrice 1.12337 AskPrice 1.1234 BidSize 5000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:54 BidPrice 1.12337 AskPrice 1.1234 BidSize 5500000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:54 BidPrice 1.12337 AskPrice 1.12339 BidSize 5500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:54 BidPrice 1.12337 AskPrice 1.12339 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12338 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12338 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12338 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12339 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12338 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 7500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 8000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:55 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:56 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:56 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:56 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:57 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:49:57 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12336 AskPrice 1.12338 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12338 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12338 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12338 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4500000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:00 BidPrice 1.12337 AskPrice 1.12339 BidSize 4000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 5000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 5000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 6000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 6000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 8000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 9500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12337 AskPrice 1.12339 BidSize 10500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.1234 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 5000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 5000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12339 AskPrice 1.12341 BidSize 6000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:01 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:02 BidPrice 1.12341 AskPrice 1.12343 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:02 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:02 BidPrice 1.12341 AskPrice 1.12343 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:02 BidPrice 1.12341 AskPrice 1.12343 BidSize 4000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:03 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:03 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:03 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:03 BidPrice 1.12342 AskPrice 1.12344 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:03 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:04 BidPrice 1.12342 AskPrice 1.12344 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:04 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:04 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:04 BidPrice 1.12342 AskPrice 1.12344 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:05 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:06 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:12 BidPrice 1.12343 AskPrice 1.12344 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:12 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:13 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:13 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:13 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 7000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:14 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:15 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12343 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12343 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12343 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12343 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 5500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 6500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 7500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 8500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 9500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12342 AskPrice 1.12344 BidSize 8500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12343 AskPrice 1.12344 BidSize 1500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12343 AskPrice 1.12344 BidSize 2500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12343 AskPrice 1.12344 BidSize 1500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12343 AskPrice 1.12344 BidSize 2500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12343 AskPrice 1.12344 BidSize 3500000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12344 AskPrice 1.12345 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12344 AskPrice 1.12345 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12344 AskPrice 1.12345 BidSize 3500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12344 AskPrice 1.12345 BidSize 4500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12345 AskPrice 1.12347 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:16 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:17 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:17 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:18 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:19 BidPrice 1.12346 AskPrice 1.12348 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:19 BidPrice 1.12346 AskPrice 1.12348 BidSize 4000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:19 BidPrice 1.12346 AskPrice 1.12348 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 4500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 5500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 6000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 6000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 6000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 4000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12348 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12346 AskPrice 1.12347 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12344 AskPrice 1.12347 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12344 AskPrice 1.12347 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12344 AskPrice 1.12347 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12344 AskPrice 1.12347 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12344 AskPrice 1.12347 BidSize 1000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12344 AskPrice 1.12347 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12343 AskPrice 1.12344 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12343 AskPrice 1.12345 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12343 AskPrice 1.12344 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:20 BidPrice 1.12343 AskPrice 1.12344 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:21 BidPrice 1.12343 AskPrice 1.12345 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:21 BidPrice 1.12343 AskPrice 1.12344 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:21 BidPrice 1.12343 AskPrice 1.12344 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:21 BidPrice 1.12344 AskPrice 1.12347 BidSize 1000000 AskSize 6500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:22 BidPrice 1.12344 AskPrice 1.12347 BidSize 1000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12344 AskPrice 1.12345 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 3500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:23 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 5500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:24 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:25 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 3500000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:25 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:25 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:25 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:25 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12345 AskPrice 1.12347 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12345 AskPrice 1.12347 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12344 AskPrice 1.12347 BidSize 3000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12344 AskPrice 1.12345 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12344 AskPrice 1.12345 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12344 AskPrice 1.12345 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12344 AskPrice 1.12345 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12345 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12345 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12345 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12344 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12345 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12344 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12344 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12344 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12344 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12342 AskPrice 1.12343 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12343 AskPrice 1.12344 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 6000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 5000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12341 AskPrice 1.12342 BidSize 1500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12341 AskPrice 1.12342 BidSize 2500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 3000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 2000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12339 AskPrice 1.1234 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 9000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 7000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 8000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.12339 BidSize 8000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.12339 BidSize 6000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 6500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:27 BidPrice 1.12337 AskPrice 1.1234 BidSize 7500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:28 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:28 BidPrice 1.12337 AskPrice 1.12339 BidSize 8000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:29 BidPrice 1.12337 AskPrice 1.1234 BidSize 8500000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:30 BidPrice 1.12337 AskPrice 1.12338 BidSize 7500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:30 BidPrice 1.12337 AskPrice 1.12338 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:30 BidPrice 1.12337 AskPrice 1.12338 BidSize 5500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:31 BidPrice 1.12337 AskPrice 1.12339 BidSize 5500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:32 BidPrice 1.12337 AskPrice 1.12339 BidSize 5000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:32 BidPrice 1.12337 AskPrice 1.12339 BidSize 6000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:32 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:32 BidPrice 1.12337 AskPrice 1.12339 BidSize 7500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:32 BidPrice 1.12337 AskPrice 1.12339 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:33 BidPrice 1.12337 AskPrice 1.12339 BidSize 6000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:33 BidPrice 1.12337 AskPrice 1.12339 BidSize 7000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:33 BidPrice 1.12337 AskPrice 1.12339 BidSize 7500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:33 BidPrice 1.12337 AskPrice 1.12339 BidSize 6500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:33 BidPrice 1.12337 AskPrice 1.12339 BidSize 7500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12337 AskPrice 1.12339 BidSize 8500000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.1234 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.12341 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.12341 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12339 AskPrice 1.12341 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.1234 AskPrice 1.12341 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:34 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 1000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12342 BidSize 2000000 AskSize 1000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12343 BidSize 2000000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12343 BidSize 2500000 AskSize 6000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12343 BidSize 3500000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12343 BidSize 3500000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12343 BidSize 3000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12341 AskPrice 1.12343 BidSize 3000000 AskSize 5000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 4000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 2000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 3000000
+False False
+Midpoint. ReqId: 1 Time: 20200305 21:50:35 BidPrice 1.12342 AskPrice 1.12343 BidSize 1000000 AskSize 2000000
+False False
